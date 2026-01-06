@@ -60,6 +60,8 @@ Uma palavra palíndromo é aquela que pode ser lida da mesma maneira tanto da es
 
 [Visual Studio Code](https://code.visualstudio.com/) → Editor de código leve e poderoso.
 
+[ChatGPT](https://chatgpt.com/) → Assistente de IA caso não tenha o acesso ao Github Copilot.
+
 ## 👩‍💻 Autora
 Repositório desenvolvido por Izaura TM, durante o desafio de algoritmos em Python.
 
